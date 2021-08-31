@@ -7,6 +7,8 @@ public class Prueba {
 		
 		System.out.println("Haciendo pruebas con GIT");
 		
+		String nombre = "Angel Eduardo Herrera Lomeli";
+		
 	}
 
 }
