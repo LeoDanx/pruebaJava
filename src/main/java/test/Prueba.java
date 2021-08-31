@@ -10,6 +10,10 @@ public class Prueba {
 		String nombre = "Angel Eduardo Herrera Lomeli";
 
 		System.out.println("Nombre: " + nombre);
+		
+		int edad = 25;
+		
+		System.out.println("Edad: "+edad);
 
 	}
 
